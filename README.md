@@ -11,6 +11,12 @@ Conjuntos de datos: Se incluyen los conjuntos de datos relevantes utilizados en 
 
 Dashbaord de Power BI:  Esto permite una exploración más profunda de los datos y una presentación visual de los hallazgos obtenidos durante el análisis.
 
+## Herramientas utilizadas:
+
+Python
+Librerias: pandas, numpy, matplotlib, seaborn
+PowerBI
+
 ## Analisis del mercado de Telecomunicaciones en Argentina
 
 [colocar dashboard]
