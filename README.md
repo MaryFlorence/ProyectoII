@@ -37,4 +37,10 @@ Para poder cambiar esta tendencia de ARPU bajo, churn alto, propongo la explorac
 
 La industria de las telecomunicaciones en Argentina se enfrenta a desafíos importantes, como el churn, el bajo ARPU y la commoditización de los servicios. Sin embargo, la transformación digital ofrece oportunidades interesantes para que las empresas de telecomunicaciones se reinventen y se conviertan en asesores confiables y agentes de cambio en la economía digital. Al adoptar un enfoque consultivo, invertir en tecnologías emergentes y ofrecer soluciones diferenciadas, las operadoras pueden generar crecimiento, agregar valor a sus clientes y contribuir al desarrollo económico del país.
 
+##Fuentes adicionales consultadas:
 
+Banco Mundial
+IDC
+GSMA
+Indec
+CEPAL
