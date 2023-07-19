@@ -19,13 +19,14 @@ Dashboard de Power BI:  Se encuentan dos capturas: el principal y el anexo. Esto
 
 ## Analisis del mercado de Telecomunicaciones en Argentina
 
-![Captura Dashboard principal](Dashboard_principal.PNG)
-_El analisis contiene datos históricos, desde el 2014 al 2022, y se centra especificamente en el 2022 como último año y que se tomará como actual._
+![Captura Dashboard principal](Dashboard_1principal.PNG)
+_El analisis contiene datos históricos desde el 2014 al 2022._
 
 
 En Argentina, hay tres operadoras principales, que se reparten casi equitativamente el mercado. Claro representa el 39%, Personal el 34%, y Movistar el 27% del mercado de las telecomunicaciones. Claro es de origen mexicano, Movistar de España y Personal es Argentina (perteneciente al grupo Telecom).
+
 En el dashboard podemos obsevar un mapa con los accesos a internet por cada 100 hogares, en todo el territorio nacional argentino. Contrastando con la distribución territorial de la población según el último censo nacional [link](https://censo.gob.ar/index.php/datos_provisionales/), podemos observar una relación directa siendo los principales puntos con mayor acceso: Buenos Aires, Ciudad de Buenos Aires, Córdoba, Santa Fe, Mendoza. También podemos observar que Argentina tiene una conectividad a internet del 87%, cuando la media en el mundo es del 63%.
-Luego podemos observar los ingresos por Internet y Telefonia movil, principales servicios que constituyen el 65% de la facturacion total de estas empresas. Los gráficos lineales muestran una tendencia ascendente de ambos servicios.
+Luego podemos observar los ingresos por Internet y Telefonia movil, principales servicios que constituyen el 65% de la facturacion total de estas empresas. Los gráficos lineales muestran una tendencia de facturacion en USD decreciente en ambos servicios.
 
 Entrando en mayor detalle, en el gráfico de 'Altas/Bajas Portabilidad por empresa' podemos analizar el comportamiento de los clientes entre las tres operadoras, a lo largo de los últimos años. Movistar es la que mayor cantidad de bajas reporta en este período. Según estudios de consultora, como IDC, y estados financieros presentados por las operadoras, el ticket promedio por usuario es de 5usd, y la tasa de baja promedio del 5% (en algunos casos hay empresas con 7%). Sabemos que el costo de adquisicion por nuevo cliente siempre es más elevado que mantenerlo cautivo, por lo cual esto definitivamente es una variable de perdida importante para las empresas. En un contexto de competencia oligopólica, los servicios prestados se terminan commoditizando y por ende la rotación es alta. Por otro lado, haciendo benchmark con otras operadoras a nivel mundial, el ticket promedio por usuario es considerablemente más alto llegando incluso a 30usd o más.
 
